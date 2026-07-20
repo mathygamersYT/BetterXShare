@@ -78,6 +78,7 @@ MIT
 
 - Developed by [mathygamersYT](https://github.com/mathygamersYT).
 - Based on the Xposed/LSPosed API.
+- Inspired by [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix).
 
 ---
 
@@ -157,3 +158,4 @@ MIT
 
 - Desarrollado por [mathygamersYT](https://github.com/mathygamersYT).
 - Basado en la API de Xposed/LSPosed.
+- Inspirado en [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix).
