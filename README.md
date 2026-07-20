@@ -1,10 +1,10 @@
 # BetterXShare
 
+An [LSPosed](https://github.com/LSPosed/LSPosed) module for Android that automatically replaces Twitter/X links (`twitter.com` / `x.com`) with `vxtwitter.com` when copying or sharing from the official X app.
+
 ---
 
 ## English
-
-An [LSPosed](https://github.com/LSPosed/LSPosed) module for Android that automatically replaces Twitter/X links (`twitter.com` / `x.com`) with `vxtwitter.com` when copying or sharing from the official X app.
 
 ### What it does
 
