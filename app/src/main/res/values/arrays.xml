@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- List of packages this module should be applied to -->
+    <string-array name="xposed_scope">
+        <item>com.twitter.android</item>
+    </string-array>
+</resources>
